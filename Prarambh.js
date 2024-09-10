@@ -1,1 +1,1 @@
-console.log("Ant asti prarambh")
+console.log("Antah asti prarambh")
