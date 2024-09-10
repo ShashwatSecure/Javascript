@@ -4,4 +4,5 @@ let nameClient = "Vikas"
 var gender = "male"
 profession = "import/export"
 
-console.log([userId,nameClient,gender,profession])
+let age;
+console.log([userId,nameClient,gender,profession,age])
